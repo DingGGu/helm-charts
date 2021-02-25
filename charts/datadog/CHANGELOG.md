@@ -1,5 +1,9 @@
 # Datadog changelog
 
+## 2.9.2
+
+* Enable support for GKE Autopilot
+
 ## 2.9.1
 
 * add `datadog.systemProbe.conntrackMaxStateSize` and  `datadog.systemProbe.maxTrackedConnections`.
